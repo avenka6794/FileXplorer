@@ -1,2 +1,0 @@
-# FileXplorer
-Created with CodeSandbox
